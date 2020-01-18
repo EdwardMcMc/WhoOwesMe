@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "759486030871",
+    "firebase_url": "https://who-owes-me-cf901.firebaseio.com",
+    "project_id": "who-owes-me-cf901",
+    "storage_bucket": "who-owes-me-cf901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759486030871:android:c3d75a67755e6ab81d2852",
+        "android_client_info": {
+          "package_name": "com.example.who_owes_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759486030871-28ord765cmi4q6kg152054jpp91jbttp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zj7nv_2RjBJkV0459BLNErwRjr1HBEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759486030871-28ord765cmi4q6kg152054jpp91jbttp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
